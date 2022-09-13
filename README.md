@@ -26,7 +26,7 @@ Link al [Deploy](https://tresjota-ecommerce.vercel.app/)
 <img align="center" src = 'ecommerce.PNG'>
 
 ### Henry Pokémon
-Single-page application enfocada en las razas de perros de todo el mundo.<br>
+Single-page application enfocada en los diferentes tipos de pokémons y sus habilidades.<br>
 Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
