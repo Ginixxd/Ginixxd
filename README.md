@@ -17,4 +17,4 @@ Single-page application enfocada en las razas de perros de todo el mundo.<br>
 Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
-<img align="center" src = './assets/PoisonFilter'>
+<img align="center" src = 'ComponentCreate.PNG'>
