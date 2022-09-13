@@ -19,7 +19,7 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
 Comprende Carrito de compras, Login para usuario comun y administrativo, Pasarela de Pago (Mercado Pago)
 En este gran proyecto me desempeñe como Full Stack developer, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
-Javascript | React Native | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello
+Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello
 
 Link al [Deploy](https://tresjota-ecommerce.vercel.app/)
 
