@@ -12,9 +12,23 @@ Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
+
+## 📌 Mis Proyectos
+
+### Henry E-Commerce :dollar: :credit_card: :chart:
+Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
+Comprende Carrito de compras, Login para usuario comun y administrativo, Pasarela de Pago (Mercado Pago)
+En este gran proyecto me desempeñe como Full Stack developer, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
+Javascript | React Native | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello
+
+Link al [Deploy](https://tresjota-ecommerce.vercel.app/)
+
+<img align="center" src = 'ecommerce.PNG'>
+
 ### Henry Pokémon
 Single-page application enfocada en las razas de perros de todo el mundo.<br>
 Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
+<img align="center" src = 'PrincipalHome.PNG'>
 <img align="center" src = 'ComponentCreate.PNG'>
